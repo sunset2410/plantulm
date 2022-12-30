@@ -1,0 +1,8 @@
+https://plantuml.com/sequence-diagram
+
+https://plantuml.com/component-diagram
+
+https://plantuml.com/class-diagram
+
+
+https://plantuml.com/activity-diagram-legacy
